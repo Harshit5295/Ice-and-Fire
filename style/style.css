@@ -1,0 +1,15 @@
+.bt {
+	background-color: #110808;
+}
+
+.bt:hover {
+	background-color: cornflowerblue;
+}
+
+body {
+	background-color: lightgray;
+}
+
+.card-primary {
+	background-color: #974343;
+}
